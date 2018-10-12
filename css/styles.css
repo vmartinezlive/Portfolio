@@ -1,6 +1,8 @@
 body {
   background-color: #191919;
   color: grey;
+  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Inconsolata', monospace;;
 }
 
 .jumbotron {
@@ -8,6 +10,7 @@ body {
   background-size: contain;
   background-position: center;
   opacity: .75;
+  padding: 25px;
 }
 
 .jumbotron h1{
@@ -28,9 +31,21 @@ body {
 
 a {
   color: #911415;
+  font-size: 20px;
 }
 
 .header {
   color: #CAC9D6;
   font-family: 'Josefin Sans', sans-serif;
+}
+
+p .row {
+  text-align: justify;
+}
+
+.quote {
+  text-align: center;
+  font-family: 'Satisfy', cursive;
+  font-size: 25px;
+  color: #911415;
 }
