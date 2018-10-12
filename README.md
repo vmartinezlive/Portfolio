@@ -8,6 +8,14 @@
 
 _A brief personal and professional information about Victoria and a list of completed projects during the first week at Epicodus._
 
+_Following objectives:
+
+_The following HTML tags are all used:_
+_p, h, ul, ol, li, em, strong, a, img, div, span_
+_Bootstrap classes are used to style the page. This means explicitly using classes mentioned on this page, not just linking in the Bootstrap stylesheet._
+_Project includes a custom-made stylesheet that uses typography styles, cascading, the box model, and floats. *Code is clean, well-refactored, and easy-to-read. This includes correct indendation, spacing, and including only necessary comments and debugging tools._
+_Commits are made regularly with clear messages that finish the phrase "It will…"_
+
 ## Setup/Installation Requirements
 
 * _Turn on computer_
