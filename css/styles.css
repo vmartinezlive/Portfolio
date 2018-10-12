@@ -6,6 +6,7 @@ body {
   background-image: url(../img/camera.png);
   background-size: contain;
   background-position: center;
+  opacity: .75;
 }
 
 .jumbotron h1{
@@ -21,4 +22,8 @@ body {
   text-align: center;
   text-shadow: 4px 1px 1px #000;
 
+}
+
+a {
+  color: red;
 }
