@@ -1,7 +1,8 @@
 body {
-  background-color: 141414;
-  color: 86630D;
+  background-color: #191919;
+  color: grey;
 }
+
 .jumbotron {
   background-image: url(../img/camera.png);
   background-size: contain;
@@ -10,10 +11,11 @@ body {
 }
 
 .jumbotron h1{
-  color: red;
+  color: #FF041A;
   font-size: 80px;
   text-align: center;
   text-shadow: 4px 1px 1px #fff;
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 .jumbotron h4{
@@ -25,5 +27,10 @@ body {
 }
 
 a {
-  color: red;
+  color: #911415;
+}
+
+.header {
+  color: #CAC9D6;
+  font-family: 'Josefin Sans', sans-serif;
 }
